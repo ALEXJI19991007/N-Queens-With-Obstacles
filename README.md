@@ -1,5 +1,5 @@
 # N-Queens-With-Obstacles
-An upgraded version of the traditional N Queens problem. Obstacles are added to the game board, preventing Queens from attacking each other. For example:
+An upgraded version of the traditional N Queens problem. Obstacles are added to the game board, preventing Queens from attacking each other. The requirement is that each range must have one Queen. For example:
 
 0 0 0 0 0 0 0 0
 
