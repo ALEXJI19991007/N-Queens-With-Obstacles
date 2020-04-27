@@ -2,12 +2,19 @@
 An upgraded version of the traditional N Queens problem. Obstacles are added to the game board, preventing Queens from attacking each other. For example:
 
 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0
+
 0 0 0 9 0 0 0 0
+
 0 0 0 0 1 0 0 0
+
 0 0 0 0 0 9 0 0
+
 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0
 
 Note: Obstacle = integer 1. Empty Spot = integer 0. Queen = integer 9
